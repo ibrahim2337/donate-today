@@ -69,6 +69,16 @@
   
 }
 
+.donate-container .taka .unique{
+    padding: 25px 15px;
+    color: #FF7575;
+    font-size: 30px;
+    font-weight: 700;
+    background: #FFEEEE;
+    border-radius: 5px; 
+    border: 1px solid #FF7575;
+}
+
 .donate-container input{
     padding: 10px 20px;
     text-align: center;
@@ -173,3 +183,111 @@
     color: #707070;
     padding-top: 20px;
   }
+
+
+  
+
+  .depend-container .depend .btn{
+    padding: 10px 20px;
+    font-size: 20px;
+    background: #FF5959;
+    border-radius: 5px;
+    color: #fff;
+  }
+
+
+  .depend-container{
+    padding: 50px 150px;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+
+  }
+
+  .depend-container .depend{
+    padding: 20px 30px;
+  }
+
+  .depend-container .depend .depant-title{
+    font-size: 45px;
+    color: #000;
+    padding-bottom: 30px;
+  }
+
+  .depend-container .depend .para-1{
+    font-size: 20px;
+    color: #707070;
+    padding-bottom: 20px;
+  }
+
+  .depend-container .depend .para-2{
+    font-size: 20px;
+    color: #707070;
+    padding-bottom: 30px;
+  }
+
+  .depend-container .image img{
+    border-radius:10px ;
+  }
+
+  .update-container{
+    text-align: center;
+    padding: 50px 300px;
+  }
+
+  .update-container .update-title{
+    font-size: 45px;
+    color: #000;
+    padding-bottom: 20px;
+  }
+
+  .update-container .uppara{
+    font-size: 20px;
+    color: #707070;
+    padding-bottom: 20px;
+  }
+
+
+  .update-container .btn{
+    padding: 10px 20px;
+    font-size: 20px;
+    background: #FF5959;
+    /* border-radius: 5px; */
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: #fff;
+    
+  }
+
+  .update-container input{
+    padding: 12px 20px;
+
+  }
+.update-container .subscribe{
+    padding: 70px 40px;
+    background-color: #FFF4D6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.container{
+    background-color: #0B0D17;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.container .footer-title{
+    font-size: 30px;
+    color: #FF5959;
+    padding-bottom: 20px;
+}
+
+.container .par-title{
+    font-size: 15px;
+    color: #D9DBE1;
+}
+
+
